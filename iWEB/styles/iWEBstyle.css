@@ -1,5 +1,6 @@
 body{
 
+	background-image: url('anje.png');
 	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
 	font-size: 20px;
 	font-style: normal;
@@ -8,16 +9,16 @@ body{
 	line-height: 26.4px;
 	padding: 0;
 	margin: 0;
+	color: #fff;
 
 }
-
 .ghost-button {
 
 	display: inline-block;
 	width: 200px;
 	padding: 10px;
-	color: #000;
-	border: 1px solid #000;
+	color: #fff;
+	border: 1px solid #fff;
 	border-radius: 5px;
 	text-align: center;
 	outline: none;
@@ -29,7 +30,7 @@ body{
 .ghost-button:hover,
 .ghost-button:active{
 
-background-color: #000;
+background-color: #fff;
 color: #000;
 
 }
@@ -60,22 +61,25 @@ h2{
 
 ul{
 
+	margin-top: 40px;
 	display: flex;
-	transform:translate(46.8%,-50%); 
+	transform:translate(-8%,-50%); 
 
 }
 ul li{
 
 	list-style: none;
-	margin: 10px;
+	margin: 15px;
 	font-size: 20px;
 	transition: .5s;
-
+	text-align: center;
+	position: relative;
 }
+
 
 ul li a{
 
 	width: 10px;
 	display: block;
-	color: #000;
+	color: #fff;
 }

@@ -1,3 +1,14 @@
+body{
+
+	font-family: "Goudy Old Style", Garamond, "Big Caslon", "Times New Roman", serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
+
+}
+
 .ghost-button {
 
 	display: inline-block;
@@ -27,4 +38,20 @@ color: #000;
 	padding-left: 650px;
 	padding-top:  150px;
 
+}
+
+.facebook{
+
+	padding-left: 610px;
+
+
+}
+
+h2{
+	font-family: "Nova Slim";
+	font-size: 26px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 26.4px;
 }

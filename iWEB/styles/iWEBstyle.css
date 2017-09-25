@@ -6,6 +6,8 @@ body{
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
+	padding: 0;
+	margin: 0;
 
 }
 
@@ -54,4 +56,26 @@ h2{
 	font-variant: normal;
 	font-weight: 500;
 	line-height: 26.4px;
+}
+
+ul{
+
+	display: flex;
+	transform:translate(46.8%,-50%); 
+
+}
+ul li{
+
+	list-style: none;
+	margin: 10px;
+	font-size: 20px;
+	transition: .5s;
+
+}
+
+ul li a{
+
+	width: 10px;
+	display: block;
+	color: #000;
 }

@@ -1,0 +1,149 @@
+body {
+	background-color: #141414; 
+	color: #fff;
+	font-size: 1em;
+	overflow: hidden;
+	position: relative;
+	overflow-y: scroll;
+	font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.menu a {
+	color: #585558;
+	text-decoration: none;
+	outline: none;
+}
+
+.menu a:hover {
+	color: #863bd2;
+}
+
+.menu a:hover,
+.menu a:focus {
+	outline: none;
+}
+.nav-bar{
+	padding: 1em 0;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-flex: none;
+	flex: none;
+	margin: 0 10px;
+	z-index: 1000;
+	position: relative;
+
+}
+
+.nav-bar h1 {
+	font-size: 1em;
+	margin: 0 auto 0 0;
+	padding: 0em;
+	padding-left: .7em;
+}
+
+.nav-bar h1 span {
+	color: #57456a;
+	padding-left: .5em;
+}
+.icon span {
+	display: none;
+}
+
+.backG > div {
+
+	background: #212121  url(../images/bg.jpg)  no-repeat 50% 0;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+.menu .current-page{
+	color: #be89ff;
+}
+
+.container{
+	background: url(../images/bg.jpg)  no-repeat;
+	background-size: cover;
+	width: 100%;
+	position: relative;
+	min-height: 100vh;
+	height: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+}
+.about{
+
+	background-image: url(../images/anje.png);
+	background-position: center;
+	background-size: cover;
+	width: 100%;
+	position: relative;
+	min-height: 100vh;
+	height: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+
+}
+.about-container{
+	
+}
+.separator {
+    height: 2px;
+    width: 20%;
+    margin: auto;
+    display: inline-block;
+    border-bottom:3px solid #ddd;
+}
+.user-seperator{
+    position: relative;
+    left: 10%;
+    top:-190px;
+    width: 100%;
+
+}
+
+.about-main{
+	margin:300px;
+	overflow:hidden;
+	text-align: center;
+
+}
+.about-title{
+
+    font-size:26px;
+    font-family: 'coolveticaregular';
+    text-align: right;
+    margin-top: 80px;
+    margin-right: 150px;
+}
+.about-content{
+	width: 30%;
+	margin: 4%;
+	margin-left: 65%;
+	text-align: justify;
+}
+.about-container{
+	margin: 40px;
+	
+}
+.about-icon{
+	margin-top: 5%;
+	padding-right: 230px;
+	margin-bottom: 10px;
+	text-align: right;
+}
+.ach-title{
+	font-size: 20px;
+	text-align: right;
+	margin-right: 150px;
+}
+.ach-sep{
+	height: 2px;
+    width: 20%;
+    display: inline-block;
+    margin-left: 50%; 
+    border-bottom:3px solid #ddd;
+}

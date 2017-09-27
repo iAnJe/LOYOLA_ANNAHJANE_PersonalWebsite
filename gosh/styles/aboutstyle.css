@@ -144,6 +144,23 @@ body {
 	height: 2px;
     width: 20%;
     display: inline-block;
-    margin-left: 50%; 
+    margin-left: 70%; 
     border-bottom:3px solid #ddd;
+}
+.ach-content{
+	width: 30%;
+	margin: 4%;
+	margin-left: 65%;
+	text-align: justify;
+}
+.skill-title{
+	font-size: 20px;
+	text-align: right;
+	margin-right: 200px
+}
+.skill-content{
+	width: 30%;
+	margin: 4%;
+	margin-left: 65%;
+	text-align: justify;
 }

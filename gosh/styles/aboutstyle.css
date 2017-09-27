@@ -9,13 +9,41 @@ body {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
-
+nav ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: flex;
+}
+nav ul ul{
+	margin-top: 10px;
+	position: absolute;
+	width: 200px;
+	color: #585558;
+}
+nav ul ul li{
+	
+}
+nav ul li{
+	position: relative;
+	padding: 10px;
+	cursor: pointer;
+}
+nav ul li a{
+	text-decoration: none;
+	color: #fff;
+	display: block;
+}
 .menu a {
 	color: #585558;
 	text-decoration: none;
 	outline: none;
 }
-
+.menu{
+list-style-type: none;
+margin: 0;
+padding: 0;
+}
 .menu a:hover {
 	color: #863bd2;
 }

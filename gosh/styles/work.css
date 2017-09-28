@@ -110,6 +110,48 @@
 	background-position: center;
 	background-size: cover;
 }
+.image7{
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/works/7.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.image8{
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/works/8.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.image9{
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/works/9.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.image10{
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/works/10.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.image11{
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/works/11.jpg);
+	background-position: center;
+	background-size: cover;
+}
+.image12{
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/works/12.jpg);
+	background-position: center;
+	background-size: cover;
+}
 
 /*.gal-cont1{
 	height: 250px;

@@ -73,7 +73,6 @@
 }
 .image1:hover + .image1BIG{
 	width: 300px;
-
 }
 .image2{
 	width: 100px;
@@ -165,18 +164,78 @@
 	width: 300px;
 	
 }
-.image2{
+.image8{
 	width: 100px;
 	height:100px;
 }
-.image2BIG{
+.image8BIG{
 	position: absolute;
 	width: 0px;
 	-webkit-transition:width 0.3s linear 0s;
 	transition: width 0.3s linear 0s;
 	z-index: 10;
 }
-.image2:hover + .image2BIG{
+.image8:hover + .image8BIG{
+	width: 300px;
+	
+}
+.image9{
+	width: 100px;
+	height:100px;
+}
+.image9BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image9:hover + .image9BIG{
+	width: 300px;
+	
+}
+.image10{
+	width: 100px;
+	height:100px;
+}
+.image10BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image10:hover + .image10BIG{
+	width: 300px;
+	
+}
+.image11{
+	width: 100px;
+	height:100px;
+}
+.image11BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image11:hover + .image11BIG{
+	width: 300px;
+	
+}
+.image12{
+	width: 100px;
+	height:100px;
+}
+.image12BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image12:hover + .image12BIG{
 	width: 300px;
 	
 }

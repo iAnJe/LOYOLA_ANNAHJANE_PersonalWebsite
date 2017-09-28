@@ -72,6 +72,115 @@
 	z-index: 10;
 }
 .image1:hover + .image1BIG{
-	width: 200px;
+	width: 300px;
+
+}
+.image2{
+	width: 100px;
+	height:100px;
+}
+.image2BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image2:hover + .image2BIG{
+	width: 300px;
+	
+}
+.image3{
+	width: 100px;
+	height:100px;
+}
+.image3BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image3:hover + .image3BIG{
+	width: 300px;
+	
+}
+.image4{
+	width: 100px;
+	height:100px;
+}
+.image4BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image4:hover + .image4BIG{
+	width: 300px;
+	
+}
+.image5{
+	width: 100px;
+	height:100px;
+}
+.image5BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image5:hover + .image5BIG{
+	width: 300px;
+	
+}
+.image6{
+	width: 100px;
+	height:100px;
+}
+.image6BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image6:hover + .image6BIG{
+	width: 300px;
+	
+}
+.image7{
+	width: 100px;
+	height:100px;
+}
+.image7BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image7:hover + .image7BIG{
+	width: 300px;
+	
+}
+.image2{
+	width: 100px;
+	height:100px;
+}
+.image2BIG{
+	position: absolute;
+	width: 0px;
+	-webkit-transition:width 0.3s linear 0s;
+	transition: width 0.3s linear 0s;
+	z-index: 10;
+}
+.image2:hover + .image2BIG{
+	width: 300px;
+	
+}
+.try{
+	margin: 20%;
 }
 

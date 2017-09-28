@@ -1,0 +1,40 @@
+.pic-slider{
+	position: absolute;
+	height: 40vh;
+	width: 100vw;
+	top: 0;
+	opacity: 3;
+	user-select: none;
+	transform: translate3d(0, 60vh, 0);
+	transition: transform 0.5s, opacity 0.5s;
+	transition-timing-function: cubic-bezier(0.6,0,0.4,1);
+}
+.pic-wrapper{
+	height: 100%;
+}
+.gal-item img{
+	width: 100%;
+	display: block;
+	position: relative;
+	z-index: 100;
+}
+.gal-item{
+	padding: 0 5% 5%;
+	opacity: 0;
+	width: 100%;
+	position: relative;
+	text-align: left;
+	transform: translate3d(0,75px,0);
+	transition: transform 0.5s, opacity 0.5s;
+	transition-timing-function: cubic-bezier(0.6,0,0.4,1);
+}
+.gal-title{
+		font-size: 2.25em;
+	font-weight: 700;
+	margin: 80px 0 30px;
+	padding: 50px 40px 15px;
+	text-align: center;
+	display: inline-block;
+	position: relative;
+	cursor: pointer;
+}

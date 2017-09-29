@@ -143,15 +143,16 @@ padding: 0;
 .about-title{
 
     font-size:26px;
-    font-family: 'coolveticaregular';
+    font-family: 'Abel';
     text-align: right;
     margin-top: 80px;
-    margin-right: 150px;
+    margin-right: 155px;
 }
 .about-content{
 	width: 30%;
 	margin: 4%;
 	margin-left: 65%;
+	font-family: 'Montserrat', sans-serif;
 	text-align: justify;
 }
 .about-container{
@@ -167,7 +168,8 @@ padding: 0;
 .ach-title{
 	font-size: 20px;
 	text-align: right;
-	margin-right: 150px;
+	font-family: 'Abel';
+	margin-right: 170px;
 }
 .ach-sep{
 	height: 2px;
@@ -180,19 +182,22 @@ padding: 0;
 	width: 30%;
 	margin: 4%;
 	margin-left: 65%;
+	font-family: 'Montserrat', sans-serif;
 	text-align: justify;
 }
 .skill-title{
 	font-size: 20px;
 	text-align: right;
-	margin-right: 200px
+	font-family: 'Abel';
+	margin-right: 210px
 }
 .skill-content{
 	width: 30%;
 	margin: 4%;
 	margin-left: 65%;
+	font-family: 'Montserrat', sans-serif;
 	text-align: justify;
 }
 .fa{
-	padding-right: .5em;
+	padding-right: .10em;
 }

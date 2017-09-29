@@ -12,6 +12,9 @@
 .pic-wrapper{
 	height: 100%;
 }
+.art-container{
+	text-align: center;
+}
 .gal-item img{
 	width: 100%;
 	display: block;

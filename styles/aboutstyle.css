@@ -113,7 +113,7 @@ padding: 0;
 	height: 100%;
 	overflow: hidden;
 	display: flex;
-	flex-direction: column;
+	font-direction: column;
 
 }
 .about-container{
@@ -173,11 +173,6 @@ padding: 0;
 	
 	margin: auto;
 }
-.ach-des{
-	width: 500px;
-	background-color: white;
-	opacity: 1;
-}
 .ach-sep{
 	height: 2px;
     width: 40%;
@@ -193,7 +188,17 @@ padding: 0;
 	text-align: justify;
 }
 .skill-container{
-	background-image: url();
+	width:	100%;
+	height: 500px;
+	border: solid 2px #be89ff;
+	overflow: hidden;
+}
+.skill-sec{
+	width: 100%;
+	height: 100%;
+	background-image: url(../images/sk.jpg);
+	background-size: cover;
+	background-position: center;
 }
 .skill-title{
 	font-size: 20px;

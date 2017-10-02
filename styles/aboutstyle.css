@@ -182,7 +182,7 @@ padding: 0;
 .ach-content{
 	width: 30%;
 	margin: 4%;
-	margin-left: 65%;
+	margin: auto;
 	font-family: 'Montserrat', sans-serif;
 	text-align: justify;
 }

@@ -174,11 +174,11 @@ padding: 0;
 }
 .ach-sep{
 	height: 2px;
-    width: 20%;
-    display: inline-block;
-    margin-left: 70%; 
+    width: 40%;
+    margin-left: 190px; 
     border-bottom:3px solid #ddd;
 }
+
 .ach-content{
 	width: 30%;
 	margin: 4%;

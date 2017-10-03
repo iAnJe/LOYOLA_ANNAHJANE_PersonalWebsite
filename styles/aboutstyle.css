@@ -205,12 +205,10 @@ padding: 0;
 	overflow: hidden;
 }
 .skill-title{
-	font-size: 26px;
+	font-size: 30px;
 	text-align: center;
 	font-family: 'Abel';
-	margin: auto;
-	background-color: #ACACAC;
-	
+	margin: auto;	
 }
 .skill-content{
 	width: 30%;
@@ -224,8 +222,13 @@ padding: 0;
     margin: auto;
     border-bottom: 30px solid #ddd;
 }
+.skills-sep{
+	width: 2px;
+    margin: auto;
+    border-bottom: 30px solid #ddd;
+}
 .sk-cont{
-	margin-top: 50px;
+	margin-top: 25px;
 	background-color: #D8B3DB;
 	width: 200px;
 }
@@ -262,6 +265,9 @@ padding: 0;
 .skill-sec h3{
 	text-align: center;
 	color: #923D98;
+}
+.skill-title h3{
+	color: #F2BCF6;
 }
 .skill-sec h2{
 	padding-left: .50em;

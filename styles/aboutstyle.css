@@ -222,7 +222,7 @@ padding: 0;
 .skill-sep{
 	width: 2px;
     margin: auto;
-    border-bottom: 100px solid #ddd;
+    border-bottom: 30px solid #ddd;
 }
 .sk-cont{
 	margin-top: 50px;
@@ -235,8 +235,27 @@ padding: 0;
 	width: 200px;
 	margin-left: 425px;
 }
+.sk-cont2{
+	margin-top: 25px;
+	background-color: #D8B3DB;
+	width: 200px;
+	margin-left: 625px;
+}
+.sk-cont3{
+	margin-top: 25px;
+	background-color: #D8B3DB;
+	width: 200px;
+	margin-left: 425px;
+}
+.sk-cont4{
+	margin-top: 25px;
+	background-color: #D8B3DB;
+	width: 200px;
+	margin-left: 625px;
+}
 .skill-sec h3{
 	text-align: center;
+	color: #923D98;
 }
 .fa{
 	padding-right: .10em;

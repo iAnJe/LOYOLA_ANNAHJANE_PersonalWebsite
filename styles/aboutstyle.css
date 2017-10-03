@@ -179,22 +179,16 @@ padding: 0;
 }
 .ach-display{
 	display: flex;
-	
+	padding-left: 10px;
 }
-.ach-cont-container{
-	width:	300px;
-	height: 150px;
-	border: solid 2px #01C9DF;
-	overflow: hidden;
-	margin: 100px auto 0px auto;
-	display: center;
-}
+
 .ach-content{
 	width: 100%;
 	height: 100%;
 	margin-top: 20%;
 	text-align: center;
 	font-family: 'Montserrat', sans-serif;
+
 }
 .ach-content1{
 	width: 100%;
@@ -204,10 +198,7 @@ padding: 0;
 	font-family: 'Montserrat', sans-serif;
 }
 .skill-sec{
-	background-image: url(../images/sk.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
-	background-position: center;
+	background-color: #7E3883;
 	width: 100%;
 	position: relative;
 	min-height: 70vh;
@@ -227,6 +218,13 @@ padding: 0;
 	margin-left: 65%;
 	font-family: 'Montserrat', sans-serif;
 	text-align: justify;
+}
+.skill-sep{
+	display: inline-block;
+	vertical-align: middle;
+	height: 100px;
+    margin: auto;
+    border-bottom:3px solid #ddd;
 }
 .fa{
 	padding-right: .10em;

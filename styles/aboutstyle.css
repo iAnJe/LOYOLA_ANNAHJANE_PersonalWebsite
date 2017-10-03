@@ -220,11 +220,14 @@ padding: 0;
 	text-align: justify;
 }
 .skill-sep{
-	display: inline-block;
-	vertical-align: middle;
-	height: 100px;
+	width: 2px;
     margin: auto;
-    border-bottom:3px solid #ddd;
+    border-bottom: 500px solid #ddd;
+}
+.sk-cont{
+	margin-top: -10%;
+	background-color: #D8B3DB;
+	width: 200px;
 }
 .fa{
 	padding-right: .10em;
@@ -232,7 +235,4 @@ padding: 0;
 .ach-container{
 	background-color: #141414;
 	padding: 300px;
-}
-.ach-wrapper{
-
 }

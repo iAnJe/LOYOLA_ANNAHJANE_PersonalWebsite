@@ -222,12 +222,21 @@ padding: 0;
 .skill-sep{
 	width: 2px;
     margin: auto;
-    border-bottom: 500px solid #ddd;
+    border-bottom: 100px solid #ddd;
 }
 .sk-cont{
-	margin-top: -10%;
+	margin-top: 50px;
 	background-color: #D8B3DB;
 	width: 200px;
+}
+.sk-cont1{
+	margin-top: 25px;
+	background-color: #D8B3DB;
+	width: 200px;
+	margin-left: 425px;
+}
+.skill-sec h3{
+	text-align: center;
 }
 .fa{
 	padding-right: .10em;
